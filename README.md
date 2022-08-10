@@ -1,6 +1,6 @@
 ### Garmonyvkusa
 
-Site with cooking receipes
+Site with cooking recipes
 
 ## Contact
 admin@garmonyvkusa.com
