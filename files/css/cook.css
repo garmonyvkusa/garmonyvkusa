@@ -455,7 +455,8 @@ nav ul ul li {
 		cursor: default;
 counter-reset: li;
 list-style: none;
-font: 14px "Trebuchet MS", "Lucida Sans";
+font: 14px "Trebuchet MS",
+    "Lucida Sans";
 padding: 0;
 text-shadow: 0 1px 0 rgba(255,255,255,.5);
 }
